@@ -58,7 +58,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
-
+The third Onshape assingment was to make the fork. It has a circular base of 80 millimeters and two identical prongs.
 ### Evidence
 
 ### Image
