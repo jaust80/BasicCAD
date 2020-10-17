@@ -65,32 +65,33 @@ The third Onshape assingment was to make the fork. It has a circular base of 80 
 
 ### Reflection
 
+This was difficult for me because of the introduction of the mirror tool but I think I have it figured out
 ---
 
 
 ## Tire
 
 ### Description
-
+A trapeziod we rovolved to turn into a tire
 ### Evidence
-
+[Onshape Tire](https://cvilleschools.onshape.com/documents/9a048b9a6dd8dd88710b13e3/w/0ced163be124f05c75a8458a/e/95116ffa1afd32593e0464d6)
 ### Image
 
 ### Reflection
-
+This was one of the harder tasks so far. I had a lot of trouble getting the dimensions right but somehow did it.
 ---
 
 
 ## Wheel
 
 ### Description
-
+A sort of I shape we used to revole into the shape of a wheel
 ### Evidence
-
+[Onshape Wheel](https://cvilleschools.onshape.com/documents/d57a99365cc12a9ce01e05ad/w/08ade223c582022779ee3271/e/bf6af9495712ed3fb2ee178e)
 ### Image
 
 ### Reflection
-
+This one gave me a hard time since it was so complex. It was hard for me to figure out what was happening when you move the smart dimension below the line but eventually the dimensions came out right
 ---
 
 
