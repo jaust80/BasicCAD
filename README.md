@@ -62,6 +62,7 @@ The third Onshape assingment was to make the fork. It has a circular base of 80 
 ### Evidence
 [The Full Fork](https://cvilleschools.onshape.com/documents/25c4cb4b1a5337e5e5844fdf/w/47679b46742962c05fa6b1e4/e/423d1a3a797de42c3bad77b7)
 ### Image
+![Fork](https://user-images.githubusercontent.com/71342179/96913160-4536a080-1471-11eb-8c3b-8b00408f846e.PNG)
 
 ### Reflection
 
