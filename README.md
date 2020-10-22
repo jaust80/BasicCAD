@@ -100,11 +100,11 @@ This one gave me a hard time since it was so complex. It was hard for me to figu
 ## AxleCollarBearings
 
 ### Description
-
+A small pole with two flat edges and a collar on top.
 ### Evidence
-
+[Part in onshape](https://cvilleschools.onshape.com/documents/3b4647e9aa2aa6e94bd78b6c/w/97952f349cb144ddd4fc75bb/e/413092549a752bd5afe455eb)
 ### Image
-
+![Axle](https://user-images.githubusercontent.com/71342179/96913977-5df38600-1472-11eb-8a9b-1a5f15d1f142.PNG)
 ### Reflection
-
+This was easy for me because it was so quick and my new knowledge from doing the other parts.
 ---
