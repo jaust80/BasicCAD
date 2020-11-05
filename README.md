@@ -52,6 +52,7 @@ https://cvilleschools.onshape.com/documents/a3c2550d30958c40f99958d3/w/80b79e5c6
 ![Mount](https://user-images.githubusercontent.com/71342179/97067404-f1b87580-158a-11eb-8e7c-e110f2df12e1.PNG)
 
 ### Reflection
+
 For a while I had a lot of issues with this because the holes arent symmetrical so I thought I was doing something wrong but when I matched up the rectangle and the square it worked.
 ---
 
@@ -81,6 +82,7 @@ A trapeziod we revolved to turn into a tire
 ![Tire](https://user-images.githubusercontent.com/71342179/96913420-95156780-1471-11eb-99f2-d1dbe81ce045.PNG)
 
 ### Reflection
+
 This was one of the harder tasks so far. I had a lot of trouble getting the dimensions right but somehow did it.
 ---
 
@@ -94,6 +96,7 @@ A sort of I shape we used to revolve into the shape of a wheel
 ### Image
 ![Wheel](https://user-images.githubusercontent.com/71342179/96913478-ac545500-1471-11eb-851e-395824191ea8.PNG)
 ### Reflection
+
 This one gave me a hard time since it was so complex. It was hard for me to figure out what was happening when you move the smart dimension below the line but eventually the dimensions came out right
 ---
 
@@ -107,5 +110,6 @@ A small pole with two flat edges and a collar on top.
 ### Image
 ![Axle](https://user-images.githubusercontent.com/71342179/96913977-5df38600-1472-11eb-8a9b-1a5f15d1f142.PNG)
 ### Reflection
+
 This was easy for me because it was so quick and my new knowledge from doing the other parts.
 ---
