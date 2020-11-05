@@ -54,6 +54,7 @@ https://cvilleschools.onshape.com/documents/a3c2550d30958c40f99958d3/w/80b79e5c6
 ### Reflection
 
 For a while I had a lot of issues with this because the holes arent symmetrical so I thought I was doing something wrong but when I matched up the rectangle and the square it worked.
+
 ---
 
 
@@ -69,6 +70,7 @@ The third Onshape assingment was to make the fork. It has a circular base of 80 
 ### Reflection
 
 This was difficult for me because of the introduction of the mirror tool but I think I have it figured out
+
 ---
 
 
@@ -84,6 +86,7 @@ A trapeziod we revolved to turn into a tire
 ### Reflection
 
 This was one of the harder tasks so far. I had a lot of trouble getting the dimensions right but somehow did it.
+
 ---
 
 
@@ -98,6 +101,7 @@ A sort of I shape we used to revolve into the shape of a wheel
 ### Reflection
 
 This one gave me a hard time since it was so complex. It was hard for me to figure out what was happening when you move the smart dimension below the line but eventually the dimensions came out right
+
 ---
 
 
@@ -112,4 +116,5 @@ A small pole with two flat edges and a collar on top.
 ### Reflection
 
 This was easy for me because it was so quick and my new knowledge from doing the other parts.
+
 ---
