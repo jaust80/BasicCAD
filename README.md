@@ -136,3 +136,22 @@ https://cvilleschools.onshape.com/documents/9fe80785ac088b753ba51983/w/a7dfed190
 ### Reflection
 
 I had trouble with the new revolute mates but I got it to rotate and work.
+
+---
+
+
+## FinalAssembly
+
+### Description
+Connecting the sub assembly to the rest of the parts. When I tried to add the bolts they show up as invisible I don't know why that is but other than that it went good.
+
+### Evidence
+https://cvilleschools.onshape.com/documents/38d350b70af5d7a13713b14e/w/38a3329cf4cefaf073ba6ad8/e/8483fa2285c767a8f89456b9
+
+### Image
+![Assembly](https://user-images.githubusercontent.com/71342179/98324593-b3737b00-1fba-11eb-8267-0e20ff72edc7.PNG)
+
+
+### Reflection
+
+I don't know why the bolts showed up as invisible so I think I did it wrong.
