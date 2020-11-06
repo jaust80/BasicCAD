@@ -122,3 +122,17 @@ This was easy for me because it was so quick and my new knowledge from doing the
 
 
 ## SubAssembly
+
+### Description
+Assembling the tire to the wheel and using revolute mates to connect to axle to the inside of the wheel
+
+### Evidence
+https://cvilleschools.onshape.com/documents/9fe80785ac088b753ba51983/w/a7dfed1905f301d4f95d1c34/e/219a5020510d792b972da1db
+
+### Image
+![Sub](https://user-images.githubusercontent.com/71342179/98324133-778be600-1fb9-11eb-951c-41cbb9e46999.PNG)
+
+
+### Reflection
+
+I had trouble with the new revolute mates but I got it to rotate and work.
